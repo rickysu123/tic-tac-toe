@@ -1,8 +1,3 @@
-'''
-Ricky Su
-28714101
-CSC242
-'''
 
 import random
 
